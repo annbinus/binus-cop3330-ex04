@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /*
  *  UCF COP3330 Summer 2021 Assignment 1 Solution
- *  Copyright 2021 first_name last_name
+ *  Copyright 2021 Ann Binus
 
 * Exercise 4 - Mad Lib
 Mad libs are a simple game where you create a story template with blanks for words. You, or another player, then construct a list of words and place them into the story, creating an often silly or funny story as a result.
